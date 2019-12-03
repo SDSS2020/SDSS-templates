@@ -1,5 +1,5 @@
- This repository provides basic templates for the 2-page SDSS 2020 contributed paper submission.
-and some submission guidelines.
+ This repository provides basic templates for the 2-page SDSS 2020 contributed paper submission
+with some submission guidelines.
 The templates are available in LaTex and Microsoft word.
 The online submission system will require a short abstract which will be used for the online program. You will be able to
 attach a 2-page pdf created using one of the templates.
