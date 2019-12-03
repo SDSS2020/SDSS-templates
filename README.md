@@ -1,7 +1,7 @@
  This repository provides basic templates for the 2-page SDSS 2020 contributed paper submission
 with some submission guidelines.
 
-The templates are available in LaTex and Microsoft word.
+The templates are available in LaTeX and Microsoft word.
 
 The Word template was created using the sample pdf and the Adobe export feature. Using this template will likely require Word formatting skills.
 
