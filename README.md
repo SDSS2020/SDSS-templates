@@ -11,6 +11,6 @@ attach a 2-page pdf created using one of the templates.
 Submissions of contributed papers will be accepted for consideration from October 1, 2020, to November 23, 2020 (11:59 p.m. ET).
 Submissions may be modified until the January 30 deadline.
 
-Submit at https://ww2.amstat.org/meetings/sdss/2020/submitanabstract.cfm
+Submit at https://ww2.amstat.org/meetings/sdss/2021/submitanabstract.cfm
 
 If you have questions or comments about the template contact Donna LaLonde (donnal@amstat.org)
