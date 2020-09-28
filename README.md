@@ -1,5 +1,7 @@
  This repository provides basic templates for the 2-page SDSS 2021 contributed paper submission
-with some submission guidelines.
+with some submission guidelines. 
+
+The templates were created for the 2020 conference. The format remains the same for 2021
 
 The templates are available in LaTeX and Microsoft word.
 
