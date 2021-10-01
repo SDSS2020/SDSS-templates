@@ -5,6 +5,8 @@ The templates were created for the 2020 conference. The format remains the same 
 
 The templates are available in LaTeX and Microsoft word.
 
+An Overleaf template is available at - https://www.overleaf.com/latex/templates/symposium-on-data-science-and-statistics-sdss-2022-template-for-contributed-papers/dkcnmtjqyzrt
+
 The Word template was created using the sample pdf and the Adobe export feature. Using this template will likely require Word formatting skills.
 
 The online submission system will require a short abstract which will be used for the online program. You will be able to
