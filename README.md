@@ -13,7 +13,7 @@ The online submission system will require a short abstract which will be used fo
 attach a 2-page pdf created using one of the templates.
 
 Submissions of contributed papers will be accepted for consideration fromSeptember 30, 2022 to December 15, 2022 (11:59 p.m. ET).
-Submissions may be modified until the January 30 deadline.
+Submissions may be modified until the December 15 deadline.
 
 Submit at https://ww2.amstat.org/meetings/sdss/2023/submitanabstract.cfm
 
