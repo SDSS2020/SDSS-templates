@@ -1,7 +1,7 @@
  This repository provides basic templates for the 2-page SDSS 2023 contributed paper submission
 with some submission guidelines. 
 
-The templates were created for the 2020 conference. The format remains the same for 2023 except that authors and affiliations will not be included on the extended abstract. 
+The templates were created for the 2020 conference. The only change is that authors and affiliations should NOT be included on the extended abstract. The review process will be anonymous. 
 
 The templates are available in LaTeX and Microsoft word.
 
