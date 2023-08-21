@@ -1,4 +1,4 @@
-This repository provides basic templates for the 2-page SDSS 2023 contributed paper submission
+This repository provides basic templates for the 2-page SDSS 2024 contributed paper submission
 with some submission guidelines. 
 
 The templates were created for the 2020 conference. The only change is that authors and affiliations should **NOT** be included on the extended abstract. The review process will be anonymous. 
@@ -12,9 +12,9 @@ The Word template was created using the sample pdf and the Adobe export feature.
 The online submission system will require a short abstract which will be used for the online program. You will be able to
 attach a 2-page pdf created using one of the templates.
 
-Submissions of contributed papers will be accepted for consideration from **September 30, 2022 to December 15, 2022 (11:59 p.m. ET)**.
+Submissions of contributed papers will be accepted for consideration from **SNovember 1, 2023 to December 15, 2023 (11:59 p.m. ET)**.
 Submissions may be modified until the December 15 deadline.
 
-Submit at https://ww2.amstat.org/meetings/sdss/2023/submitanabstract.cfm
+Submit at https://ww2.amstat.org/meetings/sdss/2024/submitanabstract.cfm
 
 If you have questions or comments about the template contact Donna LaLonde (donnal@amstat.org)
